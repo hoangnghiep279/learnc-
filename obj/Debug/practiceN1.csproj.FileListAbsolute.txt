@@ -1,0 +1,7 @@
+E:\learnC#\practiceN1\practiceN1\bin\Debug\practiceN1.exe.config
+E:\learnC#\practiceN1\practiceN1\bin\Debug\practiceN1.exe
+E:\learnC#\practiceN1\practiceN1\bin\Debug\practiceN1.pdb
+E:\learnC#\practiceN1\practiceN1\obj\Debug\practiceN1.csproj.AssemblyReference.cache
+E:\learnC#\practiceN1\practiceN1\obj\Debug\practiceN1.csproj.CoreCompileInputs.cache
+E:\learnC#\practiceN1\practiceN1\obj\Debug\practiceN1.exe
+E:\learnC#\practiceN1\practiceN1\obj\Debug\practiceN1.pdb
